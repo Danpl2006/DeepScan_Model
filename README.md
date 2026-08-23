@@ -1,0 +1,1 @@
+Установка зависомистей: pip install -r requirements.txt
